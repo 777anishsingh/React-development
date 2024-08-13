@@ -1,4 +1,3 @@
-# *UPDATE REQUIED AS BASE API MIGRATED TO DIFFERENT ADDRESS*
 # Currency Converter Application
 
 ## Overview
