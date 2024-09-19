@@ -29,7 +29,7 @@ function App() {
         <div
             className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
             style={{
-                backgroundImage: `url('https://images.pexels.com/photos/3532540/pexels-photo-3532540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
+                backgroundImage: `url('https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166910.jpg?w=1060&t=st=1724953014~exp=1724953614~hmac=523cd9ffa9a7f762e1cde94eb7e0163bb02df2500add6e969894e4d71c3bd455')`,
             }}
         >
             <div className="w-full">
